@@ -1,0 +1,2 @@
+# erpquru
+QURU ERP PROJESİ KODLARI
